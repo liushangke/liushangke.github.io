@@ -4,14 +4,12 @@ url: "hanchaozhang.xyz "
 title: Shangke Liu
 # subtitle:
 position: MS in Electrical Engineering
-# subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-# subposition_link: https://nyu-medicine-cssa.github.io
+subposition: ECE Department
+subposition_link: https://www.mccormick.northwestern.edu/electrical-computer/
 affiliation: Northwestern University
-subaffiliation1: ECE department
-subaffiliation2: Mccormick School of Engineering  
+subaffiliation: Mccormick School of Engineering 
 affiliation_link: https://www.northwestern.edu
-subaffiliation1_link: https://www.mccormick.northwestern.edu/electrical-computer/
-subaffiliation1_link: https://www.mccormick.northwestern.edu/electrical-computer/
+subaffiliation_link: https://www.mccormick.northwestern.edu
 email: shangkeliu2024@u.northwestern.edu
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
