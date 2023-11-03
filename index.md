@@ -9,19 +9,19 @@ I'm a <a href="https://www.mccormick.northwestern.edu/electrical-computer/" targ
 working under the mentorship of Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/cooper-lee.html" target="_blank"> Lee Cooper </a>and Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html" target="_blank"> Aggelos Katsaggelos</a>. My research involves developing computational models that cater to radiology and pathology data
 
 <!-- In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems.  -->
-Prior to joining the MS in ECE program, I completed my BEng in Electrical and Electronic Engineering program from <a href="https://www.gla.ac.uk" target = "_blank"> University of Glasgow</a>  and my BEng in Electronic Information Engineering from <a href="https://en.uestc.edu.cn" target = "_blank"> University of Electronic Science and Technology of China</a>. 
+Prior to joining the Master of Science program, I completed my BEng in Electrical and Electronic Engineering program from <a href="https://www.gla.ac.uk" target = "_blank"> University of Glasgow</a>  and my BEng in Electronic Information Engineering from <a href="https://en.uestc.edu.cn" target = "_blank"> University of Electronic Science and Technology of China</a>. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, I began my football(soccer) journey as a student athelete in middle school and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Machine Learning:** deep learning and interpretable AI
+- **Medical Image Analysis:** MRI image analysis, tumor classification and segmentaion
+- **Computational Pathology:** machine learning application on Whole Slide Images(WSI)
+<!-- - **Medical Imaging:** matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
 ## Awards
