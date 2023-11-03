@@ -6,9 +6,9 @@ layout: homepage
 
 I'm a <a href="https://www.mccormick.northwestern.edu/electrical-computer/" target="_blank"> ECE</a> MS student at <a href="https://www.northwestern.edu/" target="_blank"> Northwestern University</a>'s <a href="https://www.mccormick.northwestern.edu" target="_blank">  Mccormick School of Engineering</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/cooper-lee.html" target="_blank"> Lee Cooper</a>and Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html" target="_blank"> Aggelos Katsaggelos</a>. My research involves developing computational models that cater to radiology and pathology data
+working under the mentorship of Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/cooper-lee.html" target="_blank"> Lee Cooper </a>and Prof.<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html" target="_blank"> Aggelos Katsaggelos</a>. My research involves developing computational models that cater to radiology and pathology data
 
-In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
+<!-- In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems.  -->
 Prior to joining the MS in ECE program, I completed my BEng in Electrical and Electronic Engineering program from <a href="https://www.gla.ac.uk" target = "_blank"> University of Glasgow</a>  and my BEng in Electronic Information Engineering from <a href="https://en.uestc.edu.cn" target = "_blank"> University of Electronic Science and Technology of China</a>. 
 
 <!-- 
