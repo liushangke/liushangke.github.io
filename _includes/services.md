@@ -19,6 +19,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2021-present]</strong> Student Member of the <a href="https://www.ieee.org" target="_blank"> IEEE </a></li>
-  <li><strong>[2018-2022]</strong> Member of the <a href="https://www.zs.uestc.edu.cn/wap/article/lists/id/33.html" target="_blank"> School Choir</a> at University of Electronic Science and Technology of China</li>
-  <li><strong>[2020-2021]</strong> Visiting student at <a href="https://www.dukekunshan.edu.cn" target="_blank"> Duke University, Kunshan</a> , Machine learning and Health Big Data Summer Camp</li>
+  <li><strong>[2018-2022]</strong> Member of the <a href="https://www.zs.uestc.edu.cn/wap/article/lists/id/33.html" target="_blank"> UESTC School Choir</a> </li>
+  <li><strong>[2020-2021]</strong> Visiting student at <a href="https://www.dukekunshan.edu.cn" target="_blank"> Duke University, Kunshan</a> </li>
 </ul>
