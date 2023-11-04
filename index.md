@@ -18,21 +18,21 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 
 
 ## Research Interests
-- **Machine Learning:** deep learning and interpretable AI
-- **Medical Image Analysis:** MRI image analysis, tumor classification and segmentaion
-- **Computational Pathology:** machine learning application on Whole Slide Images(WSI)
+- **Machine Learning in Healthcare:** develop robust and interpretable models for healthcare
+- **Medical Image Analysis:** MRI image analysis, cancer diagnosis, tumor segmentation
+- **Computational Pathology:** machine learnin in histopathology whole slide images(WSI)
 <!-- - **Medical Imaging:** matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+<!-- ## Awards
+- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
 
 
@@ -40,7 +40,7 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 
 
 
-## Collaboration
+<!-- ## Collaboration
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
@@ -50,6 +50,6 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
 
 
