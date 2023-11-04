@@ -14,7 +14,7 @@ Prior to joining the Master of Science program, I completed my BEng in Electrica
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my football(soccer) journey as a student athelete in middle school and went on to achieve several regional and national championships. My carreer ends because of <a href="https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738" target="_blank"> ACL injury</a>. I'm also passionate about basketball, hiking and rock climbing. I start to learn tennis in 2023 from <a href="https://nutennis.com" target="_blank"> Northwestern Tennis Camp</a>. 
+Outside of academia, I began my football(soccer) journey as a student athelete in middle school and went on to achieve several regional and national championships. My carreer ends because of <a href="https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738" target="_blank"> ACL injury</a>. I'm also passionate about basketball, hiking and rock climbing. I'm excited to start my tennis journey in 2023 from <a href="https://nutennis.com" target="_blank"> Northwestern Tennis Camp</a> !
 
 
 ## Research Interests
@@ -24,8 +24,8 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 <!-- - **Medical Imaging:** matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+<!-- ## Awards
+- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 
 
 <!-- {% include_relative _includes/publications.md %} -->
@@ -40,7 +40,7 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 
 
 
-## Collaboration
+<!-- ## Collaboration
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
@@ -50,6 +50,6 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
 
 
