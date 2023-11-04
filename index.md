@@ -31,7 +31,7 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
-
+{% include_relative _includes/services.md %}
 
 
 
@@ -49,7 +49,5 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
 
-
-{% include_relative _includes/services.md %}
 
 
