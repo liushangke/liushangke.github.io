@@ -14,7 +14,7 @@ Prior to joining the Master of Science program, I completed my BEng in Electrica
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my football(soccer) journey as a student athelete in middle school and went on to achieve several regional and national championships. My carreer ends because of <a href="https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738" target="_blank"> ACL injury</a>. I'm also passionate about basketball, hiking and rock climbing. I'm excited to start my tennis journey in 2023 from <a href="https://nutennis.com" target="_blank"> Northwestern Tennis Camp</a>!
+Outside of academia, I began my football(soccer) journey as a student athelete in middle school and went on to achieve several regional and national championships. My career ends because of <a href="https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738" target="_blank"> ACL injury</a>. I'm also passionate about basketball, hiking and rock climbing. I'm excited to start my tennis journey in 2023 from <a href="https://nutennis.com" target="_blank"> Northwestern Tennis Camp</a>!
 
 
 ## Research Interests
@@ -32,7 +32,7 @@ Outside of academia, I began my football(soccer) journey as a student athelete i
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+
 
 
 
