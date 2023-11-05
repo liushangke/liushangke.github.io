@@ -39,13 +39,13 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2306.06534">A Panoptic Segmentation Approach for Tumor-Infiltrating Lymphocyte Assessment: Development of the MuTILs Model and PanopTILs Dataset.</a></div>
-    <div class="author"><strong>Shangke Liu, Mohamed Amgad, Muhammad A. Rathore, Roberto Salgado, Lee A.D. Cooper</strong></div>
+    <div class="author"><strong>Shangke Liu</strong>, Mohamed Amgad, Muhammad A. Rathore, Roberto Salgado, Lee A.D. Cooper</div>
     <div class="periodical"><em>medRXiv, May. 2023.</em></div>
     <div class="links">
     <a href="https://sites.google.com/view/panoptils/home" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.medrxiv.org/content/10.1101/2022.01.08.22268814v3.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/PathologyDataScience/MuTILs_Panoptic" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <strong><i style="color:#7b5aa6">medRXiv.org</i></strong>
+      <!-- <strong><i style="color:#7b5aa6">medRXiv.org</i></strong> -->
     </div>
   </div>
 </div>
@@ -56,19 +56,20 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/glio.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AHI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Glioblastoma Infiltration Classification: Bridging Radiology and Pathology Data</a></div>
+    <div class="author"><strong>Shangke Liu</strong>, Virginia Hill, Aggelos K Katsaggelos</div>
+    <div class="periodical"><em>Department of Radiology</em></div>
+    <div class="periodical"><em>Department of Electrical and Computer Engineering</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+      <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://github.com/liushangke/Glioblastoma-Infillstration-classification" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
     </div>
   </div>
 </div>
