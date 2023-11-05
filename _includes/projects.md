@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">A panoptic segmentation approach for tumor-infiltrating lymphocyte assessment: development of the MuTILs model and PanopTILs dataset.</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2306.06534">A Panoptic Segmentation Approach for Tumor-Infiltrating Lymphocyte Assessment: Development of the MuTILs Model and PanopTILs Dataset.</a></div>
     <div class="author"><strong>Shangke Liu, Mohamed Amgad, Muhammad A. Rathore, Roberto Salgado, Lee A.D. Cooper</strong></div>
     <div class="periodical"><em>medRXiv, May. 2023.</em></div>
     <div class="links">
