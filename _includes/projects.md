@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534" target="_blank">A Panoptic Segmentation Approach for Tumor-Infiltrating Lymphocyte Assessment: Development of the MuTILs Model and PanopTILs Dataset.</a></div>
+    <div class="title"><a>A Panoptic Segmentation Approach for Tumor-Infiltrating Lymphocyte Assessment: Development of the MuTILs Model and PanopTILs Dataset.</a></div>
     <div class="author"><strong>Shangke Liu</strong>, Mohamed Amgad, Muhammad A. Rathore, Roberto Salgado, Lee A.D. Cooper</div>
     <div class="periodical"><em>medRXiv, May. 2023.</em></div>
     <div class="links">
@@ -70,7 +70,7 @@
       <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="https://github.com/liushangke/Glioblastoma-Infillstration-classification" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://docs.google.com/presentation/d/1zmDSYXtS3N3kIWODGtFwJLZE3GBhh967/edit?usp=drive_web&ouid=114064355795533875436&rtpof=true" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Slides</a>
     </div>
   </div>
 </div>
