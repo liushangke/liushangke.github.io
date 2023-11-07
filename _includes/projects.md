@@ -63,7 +63,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>Glioblastoma Infiltration Classification: Bridging Radiology and Pathology Data</a></div>
     <div class="author"><strong>Shangke Liu</strong>, Virginia Hill, Yunan Wu, Aggelos K Katsaggelos</div>
-    <div class="periodical"><em>Jul. 2023 - Present</em></div>
+    <div class="periodical"><em>Sep. 2023 - Present</em></div>
     <div class="affiliation"><em>Department of Radiology</em></div>
     <div class="affiliation"><em>Department of Electrical and Computer Engineering</em></div>
     <div class="links">
