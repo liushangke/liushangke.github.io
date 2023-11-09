@@ -64,8 +64,8 @@
     <div class="title"><a>Glioblastoma Infiltration Classification: Bridging Radiology and Pathology Data</a></div>
     <div class="author"><strong>Shangke Liu</strong>, Virginia Hill, Yunan Wu, Aggelos K Katsaggelos</div>
     <div class="periodical"><em>Sep. 2023 - Present</em></div>
-    <div class="affiliation"><em>Department of Radiology</em></div>
-    <div class="affiliation"><em>Department of Electrical and Computer Engineering</em></div>
+    <div class="affiliation"><em>Department of Radiology, Northwestern University</em></div>
+    <div class="affiliation"><em>Department of Electrical and Computer Engineering, Northwestern University</em></div>
     <div class="links">
       <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
@@ -75,7 +75,30 @@
   </div>
 </div>
 </li>
-  
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/surv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">In Progress</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a>Interpretable Attention Network for Breast Cancer Survival Analysis</a></div>
+    <div class="author"><strong>Shangke Liu</strong>, Mohamed Amgad, Lee A.D. Cooper</div>
+    <div class="periodical"><em>Apr. 2023 - Present</em></div>
+    <div class="affiliation"><em>Department of Pathology</em></div>
+    <div class="links">
+      <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="https://github.com/liushangke/Attention-Based-Interpretable-Survival-Analysis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://drive.google.com/file/d/1Ovb7hPY9YwU1MD9_l2J7cz_n2RrTV71Z/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Jupyter Notebook</a>
+    </div>
+  </div>
+</div>
+</li>
 <br>
 
 </ol>
