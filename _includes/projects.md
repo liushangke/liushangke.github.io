@@ -65,7 +65,7 @@
     <div class="author"><strong>Shangke Liu</strong>, Virginia Hill, Yunan Wu, Aggelos K Katsaggelos</div>
     <div class="periodical"><em>Sep. 2023 - Present</em></div>
     <div class="affiliation"><em>Department of Radiology, Northwestern University</em></div>
-    <div class="affiliation"><em>Department of Electrical and Computer Engineering, Northwestern University</em></div>
+    <div class="affiliation"><em>Department of ECE, Northwestern University</em></div>
     <div class="links">
       <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
