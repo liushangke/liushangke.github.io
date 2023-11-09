@@ -89,7 +89,7 @@
     <div class="title"><a>Interpretable Attention Network for Breast Cancer Survival Analysis</a></div>
     <div class="author"><strong>Shangke Liu</strong>, Mohamed Amgad, Lee A.D. Cooper</div>
     <div class="periodical"><em>Apr. 2023 - Present</em></div>
-    <div class="affiliation"><em>Department of Pathology</em></div>
+    <div class="affiliation"><em>Department of Pathology, Northwestern University</em></div>
     <div class="links">
       <!-- <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
