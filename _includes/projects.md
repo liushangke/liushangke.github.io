@@ -42,8 +42,8 @@
     <div class="author"><strong>Shangke Liu</strong>, Mohamed Amgad, Muhammad A. Rathore, Roberto Salgado, Lee A.D. Cooper</div>
     <div class="periodical"><em>medRXiv, 2023.</em></div>
     <div class="links">
-    <a href="https://sites.google.com/view/panoptils/home" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.medrxiv.org/content/10.1101/2022.01.08.22268814v3.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://sites.google.com/view/panoptils/home" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+      <a href="https://www.medrxiv.org/content/10.1101/2022.01.08.22268814v4.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">medRxov</a>
       <a href="https://github.com/PathologyDataScience/MuTILs_Panoptic" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <!-- <strong><i style="color:#7b5aa6">medRXiv.org</i></strong> -->
     </div>
